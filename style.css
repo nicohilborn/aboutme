@@ -1,0 +1,38 @@
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+    color: #007bff; /* A nice blue */
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+        p {
+            margin-bottom: 15px;
+        }
+        .container {
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .profile-picture {
+            float: right;
+            width: 150px; /* Adjust size as needed */
+            border-radius: 50%; /* Makes it a circle */
+            margin-left: 20px;
+        }
+        .interests {
+            list-style-type: none;
+            padding: 0;
+        }
+        .interests li {
+            margin-bottom: 5px;
+        }
