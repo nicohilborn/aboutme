@@ -1,3 +1,16 @@
+ header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: #010260;
+        color: #ffffff;
+        padding: 1rem;
+      }
+      header nav a {
+        color: #ffffff;
+        margin-left: 1rem;
+        text-decoration: none;
+      }
 body {
   padding: 25px;
   background-color: rgb(200, 200, 200);
