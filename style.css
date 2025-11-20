@@ -12,6 +12,7 @@
         text-decoration: none;
       }
 body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding: 25px;
   background-color: rgb(200, 200, 200);
   color: black;
@@ -23,7 +24,7 @@ body {
   color: white;
 }
 h1 {
-    color: #007bff; /* A nice blue */
+    color: #007bff;
     border-bottom: 2px solid #ccc;
     padding-bottom: 10px;
 }
@@ -37,8 +38,8 @@ h1 {
         }
         .profile-picture {
             float: right;
-            width: 150px; /* Adjust size as needed */
-            border-radius: 50%; /* Makes it a circle */
+            width: 150px; 
+            border-radius: 50%; 
             margin-left: 20px;
         }
         .interests {
